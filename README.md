@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 You trying to access Facebook :arrow_down:
 
-![Alt Text](https://media.giphy.com/media/9WWWY5lGc4ACs/giphy.gif)
+![](https://media.giphy.com/media/9WWWY5lGc4ACs/giphy.gif)
